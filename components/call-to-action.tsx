@@ -57,17 +57,17 @@ export default function CallToAction() {
             <div className="grid md:grid-cols-3 gap-8 text-left">
               <div>
                 <div className="text-sm text-muted-foreground font-medium mb-2">Email</div>
-                <div className="text-lg font-bold text-foreground">info@nairobimarketweek.co.ke</div>
+                <div className="text-base font-bold text-foreground">hello@nairobimarketweek.co.ke</div>
               </div>
 
               <div>
                 <div className="text-sm text-muted-foreground font-medium mb-2">Phone</div>
-                <div className="text-lg font-bold text-foreground">+254 700 000 000</div>
+                <div className="text-base font-bold text-foreground">+254 768 276 670</div>
               </div>
 
               <div>
                 <div className="text-sm text-muted-foreground font-medium mb-2">Location</div>
-                <div className="text-lg font-bold text-foreground">BBS Mall, Eastleigh</div>
+                <div className="text-base font-bold text-foreground">Ring Road, Kilimani, Nairobi, Kenya</div>
               </div>
             </div>
           </div>

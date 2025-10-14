@@ -92,7 +92,7 @@ export default function Footer() {
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-golden mt-1 flex-shrink-0" />
                 <a
                   href="mailto:hello@nairobimarketweek.co.ke"
-                  className="text-sm sm:text-base text-muted-foreground hover:text-golden transition-colors break-all"
+                  className="text-xs xs:text-base text-muted-foreground hover:text-golden transition-colors break-all"
                 >
                   hello@nairobimarketweek.co.ke
                 </a>
@@ -101,14 +101,14 @@ export default function Footer() {
                 <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-golden mt-1 flex-shrink-0" />
                 <a
                   href="tel:+254768276670"
-                  className="text-sm sm:text-base text-muted-foreground hover:text-golden transition-colors"
+                  className="text-xs xs:text-base text-muted-foreground hover:text-golden transition-colors"
                 >
                   +254 768 276 670
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-golden mt-1 flex-shrink-0" />
-                <span className="text-sm sm:text-base text-muted-foreground">
+                <span className="text-xs xs:text-base text-muted-foreground">
                   Ring Road, Kilimani
                   <br />
                   Nairobi, Kenya
